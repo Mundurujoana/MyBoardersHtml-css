@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+    .border1 {
+        border: solid 5px black;
+    border-width: 5px;
+        padding: 20px 5px 20px 40px;
+        outline:solid 3px blue;
+        margin: 15% 30%  60% 25%;
+    }
+
+    .border2 {
+        border: solid 4px red;
+      border-width: 5px;
+        padding: 50% 20% 10% 20%;
+        outline: solid 3px purple;
+        margin: 25px;
+    }
+    
+    .border3 {
+        text-align: center;
+        border: solid 2px  mediumvioletred;
+       border: width 5px; ;
+        padding: 10% 10% 10% 10% ;
+        outline:solid 3px darkgreen;
+        margin: 5px;
+    }
